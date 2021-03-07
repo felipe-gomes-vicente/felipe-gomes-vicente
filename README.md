@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Programming related stuff, Books, Movies, TV Series, Games and so on...**
 - 📫 How to reach me: **LinkedIn or E-mail** - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-felipegomes.vicente2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipegomes.vicente2@gmail.com)](felipegomes.vicente2@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-FelipeVicente-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipegomes.vicente2@gmail.com)](mailto:felipegomes.vicente2@gmail.com)
+
 - 💻 All of my projects are available at [GitHub](https://github.com/felipe-gomes-vicente/)
 - 🤝 Always open to collaborate
 

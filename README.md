@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
  <br>
 
-- 🚀  I’m currently working on JavaScript and React
-- 🌱 I’m currently learning Typescript and Node
+- 🚀  I’m currently working on JavaScript and ReactJS
+- 🌱 I’m currently learning Typescript and NodeJS
 - 👯 Collaborate at [Opensource Courses](https://web-opensources-courses.vercel.app)
 - 💬 Ask me about **I'm Felipe, a student of System Internet in Technology at UNINOVE university. Fascinated by technology, and a fiction fan and observer. Programming related stuff, Books, Movies, TV Series, Games and so on...**
 - 📫 How to reach me: **LinkedIn or E-mail** - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/) 

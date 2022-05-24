@@ -1,18 +1,3 @@
-<!--
-**felipe-gomes-vicente/felipe-gomes-vicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <br>
@@ -21,9 +6,22 @@ Here are some ideas to get you started:
   </h3>
 
  <br>
+ 
+ ### My current tools
+🌎 Front-end Web Developer with `ReactJs`, `HTML`, `CSS` & `Javascript`
 
-- 🚀  I’m currently working on JavaScript and ReactJS
-- 🌱 I’m currently learning Typescript and NodeJS
+📡 Back-end with `NodeJS`
+
+🧰 Version Code Control: `Git` & `Github`
+
+🎨 Layout Design: `Figma`, `Adobe illustrator` & ` Adobe Photoshop`
+
+🛠️ Tools: `Vscode`, `Markdown`
+
+ <br>
+ 
+- 🚀  I’m currently working on `JavaScript` & `ReactJS`
+- 🌱 I’m currently learning `Typescript` & `NodeJS`
 - 👯 Collaborate at [Opensource Courses](https://web-opensources-courses.vercel.app)
 - 💬 Ask me about **I'm Felipe, a student of System Internet in Technology at UNINOVE university. Fascinated by technology, and a fiction fan and observer. Programming related stuff, Books, Movies, TV Series, Games and so on...**
 - 📫 How to reach me: **LinkedIn or E-mail** - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/) 

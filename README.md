@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there! 👋 </h1>
  <br>
  <h3 align="center">
   I'm Felipe Vicente, a Front-end Developer from São Paulo,BR - Brazil

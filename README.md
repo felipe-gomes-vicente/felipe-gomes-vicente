@@ -9,7 +9,7 @@
  
  ### My current tools
  
-💻 My Portfolio [Portfolio](https://felipe-gomes-vicente.github.io/portfolio/)
+💻 [My Portfolio](https://felipe-gomes-vicente.github.io/portfolio/)
  
 🌎 Front-end Web Developer with `ReactJs`, `HTML`, `CSS` & `Javascript`
 

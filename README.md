@@ -1,11 +1,6 @@
+## Hi there! 👋
 
-<h1 align="center">Hi there! 👋 </h1>
- <br>
- <h3 align="center">
-  I'm Felipe Vicente, a Front-end Developer from São Paulo,BR - Brazil
-  </h3>
-
- <br>
+### I'm Felipe Vicente, a Front-end Developer from São Paulo, BR - Brazil
  
  ### My current tools
  

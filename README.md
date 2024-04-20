@@ -4,7 +4,7 @@
  
  ### My current tools
  
-💻 [My Portfolio](https://felipe-gomes-vicente.github.io/portfolio/)
+💻 [Connect with me ->](https://felipe-gomes-vicente.github.io/portfolio-v1/)
  
 🌎 Front-end Web Developer with `ReactJs`, `Typescript` `HTML`, `CSS` , `Javascript` & `SQL`
 
